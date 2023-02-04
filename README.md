@@ -4,6 +4,14 @@ it would use transform CSS properties to rotate and move in the X and Y axis acc
 giving the illusion of a 3D animation. Additionally,
 the card's child elements such as the image, title, list, and button would also move along the Z-axis to enhance the 3D effect.
 
+
+
+Um projeto em react que mostra um cartão 3D ao passar o mouse envolveria a criação de um componente de cartão que exibe uma imagem,
+um título, uma lista e um botão. Quando o usuário passa o mouse sobre o cartão,
+ele usaria as propriedades transform css para girar e mover nos eixos x e y de acordo com a posição do mouse,
+dando a ilusão de uma animação 3D. Adicionalmente,
+elementos filhos do cartão, como imagem, título, lista e botão, também se moveriam ao longo do eixo Z para aprimorar o efeito 3D.
+
 ![image](https://user-images.githubusercontent.com/85474544/215277417-b3f623a9-7e09-4842-96aa-9e38fd6f2867.png)
 
 
